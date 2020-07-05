@@ -1,6 +1,5 @@
 from sys import argv
 import os
-
 from PIL import Image
 
 source = argv[1]
